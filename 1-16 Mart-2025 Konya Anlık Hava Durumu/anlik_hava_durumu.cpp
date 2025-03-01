@@ -1,3 +1,8 @@
+/*
+	VERİ KAYNAGI : www.open-meteo.com
+*/
+
+
 #include <stdio.h>
 #include <string.h>
 
